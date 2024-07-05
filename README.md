@@ -1,5 +1,5 @@
 # Blockchain-Based-Chain-Of-Custody
-From the point of collection of evidence till time of presenting it in court it passed through number of persons such as police,doctors,lawyers and judges so it can be tempered by any person at any point of time.So in order to ensure that evidence should not get modified and if anyone try to modify evidence then it would be detected using blockcahin.
+From the point of collection of evidence till time of presenting it in court it passed through number of persons such as police,doctors,lawyers and judges so it can be tempered by any person at any point of time.So in order to ensure that evidence should not get modified and if anyone try to modify evidence then it would be detected using blockchain.
 
 # To run the project
 1)Extract the zip file
